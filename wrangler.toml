@@ -1,0 +1,7 @@
+name = "vekalet-landing"
+compatibility_date = "2026-04-15"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".svelte-kit/cloudflare"
+
+# Custom domain: configure vekalet.lavescar.com.tr → this project in the
+# Cloudflare Pages dashboard under Custom domains.
